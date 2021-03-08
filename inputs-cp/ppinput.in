@@ -1,0 +1,14 @@
+&INPUTPP
+	prefix='joined',
+        fileout = 'cpout',
+        output = 'xsf',
+        outdir = 'interfaceDiff/',
+        lforces = .FALSE,
+        ldynamics = .TRUE.,
+        nframes = 41009
+        ndr = 214
+        atomic_number(1)=3,
+        atomic_number(2)=9,
+        atomic_number(3)=6,
+        atomic_number(4)=8,
+/ 
